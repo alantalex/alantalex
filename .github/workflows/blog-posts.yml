@@ -1,0 +1,24 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Запуск каждый день в полночь
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Позволяет запустить вручную кнопкой
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Твой проверенный RSS-фид
+          feed_list: "https://oleant.dev/feed"
+          # Сколько постов выводить (5 — золотая середина)
+          max_post_count: 5
+          # Настройка формата (опционально, делает список красивее)
+          template: "$newline* [$title]($url) ($date)"
+          date_format: "mmm d, yyyy"
