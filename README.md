@@ -20,6 +20,8 @@ I build high-performance, SEO-optimized web applications and custom digital solu
 ---
 
 ### 📑 Latest from my Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
