@@ -21,11 +21,11 @@ I build high-performance, SEO-optimized web applications and custom digital solu
 
 ### 📑 Latest from my Blog
 <!-- BLOG-POST-LIST:START -->
+* [Freelance Web Dev Contracts in Germany: Essential Clauses for Protection](https://oleant.dev/en/blog/freelance-web-dev-contracts-in-germany-essential-clauses-for-protection) (Apr 15, 2026)
 * [T&amp;amp;C for Freelancers in Germany: Setting the Rules and Protecting Your Code &lpar;and Money&rpar;](https://oleant.dev/en/blog/tc-for-freelancers-in-germany-setting-the-rules-and-protecting-your-code-and-money) (Apr 8, 2026)
 * [GDPR Without the Headache: A Guide for Web Developers in Germany](https://oleant.dev/en/blog/gdpr-without-the-headache-a-guide-for-web-developers-in-germany) (Apr 1, 2026)
 * [The Art of Estimation: How to Set Realistic Web Development Deadlines](https://oleant.dev/en/blog/the-art-of-estimation-how-to-set-realistic-web-development-deadlines) (Mar 25, 2026)
-* [How to Spot Difficult Clients Early and Protect Your Time](https://oleant.dev/en/blog/how-to-spot-difficult-clients-early-and-protect-your-time) (Mar 18, 2026)
-* [Discovery Call: Essential Questions You Should Definitely Ask](https://oleant.dev/en/blog/discovery-call-essential-questions-you-should-definitely-ask) (Mar 11, 2026)<!-- BLOG-POST-LIST:END -->
+* [How to Spot Difficult Clients Early and Protect Your Time](https://oleant.dev/en/blog/how-to-spot-difficult-clients-early-and-protect-your-time) (Mar 18, 2026)<!-- BLOG-POST-LIST:END -->
 
 ---
 
