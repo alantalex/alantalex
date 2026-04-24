@@ -15,6 +15,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://oleant.dev/en/feed"
+          user_agent: "GitHub-Actions-Oleant-Blog-Bot"
           max_post_count: 5
           template: "$newline* [$title]($url) ($date)"
           date_format: "mmm d, yyyy"
