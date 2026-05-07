@@ -21,11 +21,11 @@ I build high-performance, SEO-optimized web applications and custom digital solu
 
 ### 📑 Latest from my Blog
 <!-- BLOG-POST-LIST:START -->
+* [A Lie Detector for HTTP Requests: Analytics Through Time](https://oleant.dev/en/blog/a-lie-detector-for-http-requests-analytics-through-time) (May 6, 2026)
 * [Through the Looking Glass of Logs: Karachi Police, DuckDuckGo, and IPv6 Magic](https://oleant.dev/en/blog/through-the-looking-glass-of-logs-karachi-police-duckduckgo-and-ipv6-magic) (Apr 29, 2026)
 * [How I Built My Own Laravel Analytics Package &lpar;and Almost Didn&amp;#039;t Crash Production&rpar;](https://oleant.dev/en/blog/how-i-built-my-own-laravel-analytics-package-and-almost-didnt-crash-production) (Apr 22, 2026)
 * [Freelance Web Dev Contracts in Germany: Essential Clauses for Protection](https://oleant.dev/en/blog/freelance-web-dev-contracts-in-germany-essential-clauses-for-protection) (Apr 15, 2026)
-* [T&amp;amp;C for Freelancers in Germany: Setting the Rules and Protecting Your Code &lpar;and Money&rpar;](https://oleant.dev/en/blog/tc-for-freelancers-in-germany-setting-the-rules-and-protecting-your-code-and-money) (Apr 8, 2026)
-* [GDPR Without the Headache: A Guide for Web Developers in Germany](https://oleant.dev/en/blog/gdpr-without-the-headache-a-guide-for-web-developers-in-germany) (Apr 1, 2026)<!-- BLOG-POST-LIST:END -->
+* [T&amp;amp;C for Freelancers in Germany: Setting the Rules and Protecting Your Code &lpar;and Money&rpar;](https://oleant.dev/en/blog/tc-for-freelancers-in-germany-setting-the-rules-and-protecting-your-code-and-money) (Apr 8, 2026)<!-- BLOG-POST-LIST:END -->
 
 ---
 
