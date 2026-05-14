@@ -21,11 +21,11 @@ I build high-performance, SEO-optimized web applications and custom digital solu
 
 ### 📑 Latest from my Blog
 <!-- BLOG-POST-LIST:START -->
+* [Refactoring Laravel Visit Analytics: The Path to Version 2.0.0](https://oleant.dev/en/blog/refactoring-laravel-visit-analytics-the-path-to-version-200) (May 13, 2026)
 * [A Lie Detector for HTTP Requests: Analytics Through Time](https://oleant.dev/en/blog/a-lie-detector-for-http-requests-analytics-through-time) (May 6, 2026)
 * [Through the Looking Glass of Logs: Karachi Police, DuckDuckGo, and IPv6 Magic](https://oleant.dev/en/blog/through-the-looking-glass-of-logs-karachi-police-duckduckgo-and-ipv6-magic) (Apr 29, 2026)
 * [How I Built My Own Laravel Analytics Package &lpar;and Almost Didn&amp;#039;t Crash Production&rpar;](https://oleant.dev/en/blog/how-i-built-my-own-laravel-analytics-package-and-almost-didnt-crash-production) (Apr 22, 2026)
-* [Freelance Web Dev Contracts in Germany: Essential Clauses for Protection](https://oleant.dev/en/blog/freelance-web-dev-contracts-in-germany-essential-clauses-for-protection) (Apr 15, 2026)
-* [T&amp;amp;C for Freelancers in Germany: Setting the Rules and Protecting Your Code &lpar;and Money&rpar;](https://oleant.dev/en/blog/tc-for-freelancers-in-germany-setting-the-rules-and-protecting-your-code-and-money) (Apr 8, 2026)<!-- BLOG-POST-LIST:END -->
+* [Freelance Web Dev Contracts in Germany: Essential Clauses for Protection](https://oleant.dev/en/blog/freelance-web-dev-contracts-in-germany-essential-clauses-for-protection) (Apr 15, 2026)<!-- BLOG-POST-LIST:END -->
 
 ---
 
