@@ -21,11 +21,11 @@ I build high-performance, SEO-optimized web applications and custom digital solu
 
 ### 📑 Latest from my Blog
 <!-- BLOG-POST-LIST:START -->
+* [Human-Centric Bot Detection: Lessons from Sony Ericsson and Win98](https://oleant.dev/en/blog/human-centric-bot-detection-lessons-from-sony-ericsson-and-win98) (May 20, 2026)
 * [Refactoring Laravel Visit Analytics: The Path to Version 2.0.0](https://oleant.dev/en/blog/refactoring-laravel-visit-analytics-the-path-to-version-200) (May 13, 2026)
 * [A Lie Detector for HTTP Requests: Analytics Through Time](https://oleant.dev/en/blog/a-lie-detector-for-http-requests-analytics-through-time) (May 6, 2026)
 * [Through the Looking Glass of Logs: Karachi Police, DuckDuckGo, and IPv6 Magic](https://oleant.dev/en/blog/through-the-looking-glass-of-logs-karachi-police-duckduckgo-and-ipv6-magic) (Apr 29, 2026)
-* [How I Built My Own Laravel Analytics Package &lpar;and Almost Didn&amp;#039;t Crash Production&rpar;](https://oleant.dev/en/blog/how-i-built-my-own-laravel-analytics-package-and-almost-didnt-crash-production) (Apr 22, 2026)
-* [Freelance Web Dev Contracts in Germany: Essential Clauses for Protection](https://oleant.dev/en/blog/freelance-web-dev-contracts-in-germany-essential-clauses-for-protection) (Apr 15, 2026)<!-- BLOG-POST-LIST:END -->
+* [How I Built My Own Laravel Analytics Package &lpar;and Almost Didn&amp;#039;t Crash Production&rpar;](https://oleant.dev/en/blog/how-i-built-my-own-laravel-analytics-package-and-almost-didnt-crash-production) (Apr 22, 2026)<!-- BLOG-POST-LIST:END -->
 
 ---
 
