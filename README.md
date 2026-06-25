@@ -21,11 +21,11 @@ I build high-performance, SEO-optimized web applications and custom digital solu
 
 ### 📑 Latest from my Blog
 <!-- BLOG-POST-LIST:START -->
+* [Filing Your First Tax Return as a Freelancer in Germany: An IT Developer’s Guide](https://oleant.dev/en/blog/filing-your-first-tax-return-as-a-freelancer-in-germany-an-it-developers-guide) (Jun 24, 2026)
 * [Five Myths About Freelancing in Germany: The Reality Check](https://oleant.dev/en/blog/five-myths-about-freelancing-in-germany-the-reality-check) (Jun 17, 2026)
 * [Engineering: Performance Architecture in Laravel with Redis](https://oleant.dev/en/blog/engineering-performance-architecture-in-laravel-with-redis) (Jun 10, 2026)
 * [Hunting Digital Chameleons: Why Session Imitation Is the Weakest Link for Modern Bots](https://oleant.dev/en/blog/hunting-digital-chameleons-why-session-imitation-is-the-weakest-link-for-modern-bots) (Jun 3, 2026)
-* [Hunting Digital Chameleons: How We Defeated Botnets in Laravel v2.4.0](https://oleant.dev/en/blog/hunting-digital-chameleons-how-we-defeated-botnets-in-laravel-v240) (May 27, 2026)
-* [Human-Centric Bot Detection: Lessons from Sony Ericsson and Win98](https://oleant.dev/en/blog/human-centric-bot-detection-lessons-from-sony-ericsson-and-win98) (May 20, 2026)<!-- BLOG-POST-LIST:END -->
+* [Hunting Digital Chameleons: How We Defeated Botnets in Laravel v2.4.0](https://oleant.dev/en/blog/hunting-digital-chameleons-how-we-defeated-botnets-in-laravel-v240) (May 27, 2026)<!-- BLOG-POST-LIST:END -->
 
 ---
 
