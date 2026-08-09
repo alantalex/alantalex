@@ -21,11 +21,11 @@ I build high-performance, SEO-optimized web applications and custom digital solu
 
 ### 📑 Latest from my Blog
 <!-- BLOG-POST-LIST:START -->
+* [Anatomy of a Vulnerability Scan: How Our Laravel Package Caught CVE-2026-4020](https://oleant.dev/en/blog/anatomy-of-a-vulnerability-scan-how-our-laravel-package-caught-cve-2026-4020) (Aug 8, 2026)
 * [Scalable Package Architecture: From Monolithic to Atomic Configs](https://oleant.dev/en/blog/scalable-package-architecture-from-monolithic-to-atomic-configs) (Jul 22, 2026)
 * [Rule Isolation and Test-Driven Development: Refactoring Lessons in Laravel Visit Analytics](https://oleant.dev/en/blog/rule-isolation-and-test-driven-development-refactoring-lessons-in-laravel-visit-analytics) (Jul 15, 2026)
 * [Laravel Localization: From Blade Templates to Architecture](https://oleant.dev/en/blog/laravel-localization-from-blade-templates-to-architecture) (Jul 8, 2026)
-* [How to Properly Audit Your Website: Avoiding Common Mistakes](https://oleant.dev/en/blog/how-to-properly-audit-your-website-avoiding-common-mistakes) (Jul 1, 2026)
-* [Filing Your First Tax Return as a Freelancer in Germany: An IT Developer’s Guide](https://oleant.dev/en/blog/filing-your-first-tax-return-as-a-freelancer-in-germany-an-it-developers-guide) (Jun 24, 2026)<!-- BLOG-POST-LIST:END -->
+* [How to Properly Audit Your Website: Avoiding Common Mistakes](https://oleant.dev/en/blog/how-to-properly-audit-your-website-avoiding-common-mistakes) (Jul 1, 2026)<!-- BLOG-POST-LIST:END -->
 
 ---
 
